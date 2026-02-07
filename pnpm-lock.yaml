@@ -6,7 +6,7 @@ specifiers:
   '@types/expand-tilde': ^2.0.0
   '@types/fs-extra': ^9.0.13
   '@types/js-yaml': ^4.0.5
-  '@types/node': ^14.18.32
+  '@types/node': ^14.18.63
   '@types/node-fetch': ^2.6.2
   '@vercel/ncc': ^0.33.4
   ajv: ^6.12.6
@@ -20,7 +20,7 @@ dependencies:
   '@types/expand-tilde': 2.0.0
   '@types/fs-extra': 9.0.13
   '@types/js-yaml': 4.0.5
-  '@types/node': 14.18.32
+  '@types/node': 14.18.63
   '@types/node-fetch': 2.6.2
   ajv: 6.12.6
   expand-tilde: 2.0.2
@@ -194,13 +194,13 @@ packages:
   /@types/fs-extra/8.1.2:
     resolution: {integrity: sha512-SvSrYXfWSc7R4eqnOzbQF4TZmfpNSM9FrSWLU3EUnWBuyZqNBOrv1B1JA3byUDPUl9z4Ab3jeZG2eDdySlgNMg==}
     dependencies:
-      '@types/node': 14.18.32
+      '@types/node': 14.18.63
     dev: true
 
   /@types/fs-extra/9.0.13:
     resolution: {integrity: sha512-nEnwB++1u5lVDM2UI4c1+5R+FYaKfaAzS4OococimjVm3nQw3TuzH5UNsocrcTBbhnerblyHj4A49qXbIiZdpA==}
     dependencies:
-      '@types/node': 14.18.32
+      '@types/node': 14.18.63
     dev: false
 
   /@types/js-yaml/3.12.7:
@@ -218,7 +218,7 @@ packages:
   /@types/node-fetch/2.6.2:
     resolution: {integrity: sha512-DHqhlq5jeESLy19TYhLakJ07kNumXWjcDdxXsLUMJZ6ue8VZJj4kLPQVE/2mdHh3xZziNF1xppu5lwmS53HR+A==}
     dependencies:
-      '@types/node': 14.18.32
+      '@types/node': 14.18.63
       form-data: 3.0.1
     dev: false
 
@@ -226,8 +226,8 @@ packages:
     resolution: {integrity: sha512-s3nugnZumCC//n4moGGe6tkNMyYEdaDBitVjwPxXmR5lnMG5dHePinH2EdxkG3Rh1ghFHHixAG4NJhpJW1rthQ==}
     dev: true
 
-  /@types/node/14.18.32:
-    resolution: {integrity: sha512-Y6S38pFr04yb13qqHf8uk1nHE3lXgQ30WZbv1mLliV9pt0NjvqdWttLcrOYLnXbOafknVYRHZGoMSpR9UwfYow==}
+  /@types/node/14.18.63:
+    resolution: {integrity: sha512-fAtCfv4jJg+ExtXhvCkCqUKZ+4ok/JQk01qDKhL5BDDoS3AxKXhV5/MAVUZyQnSEd2GT92fkgZl0pz0Q0AzcIQ==}
 
   /@types/yargs-parser/21.0.0:
     resolution: {integrity: sha512-iO9ZQHkZxHn4mSakYV0vFHAVDyEOIJQrV2uZ06HxEPcx+mt8swXoZHIbaaJ2crJYFfErySgktuTZ3BeLz+XmFA==}
@@ -388,7 +388,7 @@ packages:
   /exec-once/0.1.8:
     resolution: {integrity: sha512-zv8nmN+jF366nAEuNgOh5U2owy5MMkv+N1LCp1utCH63ujSXr92H3x2lDR+Mstm9xNmXNlo45W/Ch+TrN1jAdw==}
     dependencies:
-      '@types/node': 14.18.32
+      '@types/node': 14.18.63
       tslib: 2.4.0
     dev: true
 
@@ -408,7 +408,7 @@ packages:
   /fast-traverse/0.1.7:
     resolution: {integrity: sha512-gZTQvJSgrGV24F8AeeTNxip8OEkjRHwDDpGw0b51TzRVGjJsKzh6CuHf9ltVjJZzni5Ead+EEQJ0IFCuoCJUtA==}
     dependencies:
-      '@types/node': 14.18.32
+      '@types/node': 14.18.63
       tslib: 2.4.0
     dev: true
 
